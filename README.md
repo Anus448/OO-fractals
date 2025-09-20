@@ -1,2 +1,5 @@
 # OO-fractals
 A Python tkinter application featuring multiple interconnected classes for drawing and printing lines using point and pen objects with built-in tkinter functionality. The project demonstrates object-oriented design principles by linking custom classes together to create a comprehensive line drawing system.
+
+
+This project implements a comprehensive line drawing application using Python's tkinter library with an object-oriented approach. The application features multiple interconnected classes including Point, Pen, and custom tkinter components that work together to create and display lines on a graphical interface. The modular design demonstrates effective class linking and inheritance principles, allowing for flexible line creation and rendering. Users can interact with the drawing canvas through various tools and methods, showcasing the integration of custom objects with tkinter's built-in functionality. This project serves as an excellent example of combining GUI programming with object-oriented design patterns in Python.
